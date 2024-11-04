@@ -11,7 +11,7 @@ def q2():
     print (5)
 
 def q3():
-    print (" Help me")
+    print (" Help me!\n")
   
 def q4():
     print ("3x3=9")
